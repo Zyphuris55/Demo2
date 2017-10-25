@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lasley - JPM&amp;C</string>
+    <string name="location_hint">Enter location. Hint: (city, state) or zipcode</string>
+    <string name="default_location">Denver, CO 80202</string>
+    <string name="location_help">Invalid input! Example: (city), (state)</string>
+    <string name="cancel">Cancel</string>
+    <string name="GPSAlertDialogTitle">Gps alert</string>
+    <string name="GPSAlertDialogMessage">dialog message</string>
+    <string name="action_settings">Settings</string>
+    <string name="current_weather">Current weather:\n%s</string>
+    <string name="temperature_str">%1$s temp:\n%2$.1f</string>
+    <string name="last_update_str">Last Update: %s</string>
+    <string name="error_msg">Data was unable to be retrieved</string>
+    <string name="empty_coords">(-, -)</string>
+
+</resources>

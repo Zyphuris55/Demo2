@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": -155.4268,
+    "lat": 19.6606
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 68.3,
+    "pressure": 1025,
+    "humidity": 41,
+    "temp_min": 58.8,
+    "temp_max": 90.7
+  },
+  "visibility": 16093,
+  "wind": {
+    "speed": 4.1,
+    "deg": 180
+  },
+  "clouds": {
+    "all": 20
+  },
+  "dt": 32527301400,
+  "sys": {
+    "type": 1,
+    "id": 539,
+    "message": 0.004,
+    "country": "US",
+    "sunrise": 32527288800,
+    "sunset": 32527339200
+  },
+  "id": 1234567,
+  "name": "Hilo",
+  "cod": 200
+}

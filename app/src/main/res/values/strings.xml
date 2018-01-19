@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lasley - JPM&amp;C</string>
+    <string name="app_name">AdamLasley_Demo2</string>
     <string name="location_hint">Enter location. Hint: (city, state) or zipcode</string>
     <string name="default_location">Denver, CO 80202</string>
     <string name="location_help">Invalid input! Example: (city), (state)</string>
